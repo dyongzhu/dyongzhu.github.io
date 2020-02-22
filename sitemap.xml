@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://miguosensen.cn/about/index.html</loc>
+    
+    <lastmod>2020-02-22T18:43:17.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://miguosensen.cn/404.html</loc>
+    
+    <lastmod>2020-02-22T18:25:27.097Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://miguosensen.cn/2019/08/27/blog-open-source/</loc>
     
-    <lastmod>2020-02-18T06:46:18.403Z</lastmod>
+    <lastmod>2020-02-18T08:20:13.102Z</lastmod>
     
   </url>
   
@@ -65,23 +79,9 @@
   </url>
   
   <url>
-    <loc>https://miguosensen.cn/about/index.html</loc>
-    
-    <lastmod>2020-02-15T12:37:43.216Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://miguosensen.cn/AV/index.html</loc>
     
     <lastmod>2020-02-15T12:37:43.050Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://miguosensen.cn/404.html</loc>
-    
-    <lastmod>2020-02-15T12:37:43.047Z</lastmod>
     
   </url>
   
