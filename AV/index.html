@@ -180,7 +180,7 @@
     </li>
 </ul> -->
 
-<!-- 支持二级菜单特性 洪卫 shw2018 modify 2019.09.17  -->
+<!-- 支持二级菜单特性 -->
 <a href="#" data-target="mobile-nav" class="sidenav-trigger button-collapse"><i class="fa fa-navicon"></i></a>
 <ul class="right nav-menu">
     
@@ -239,14 +239,36 @@
       <li class="hide-on-med-and-down nav-item" >
 
         
-            <a href="/AV" class="waves-effect waves-light">
-              
-                <i class="fa fa-music"></i>
-              
-              <span>视听</span>
-            </a>
+              <a href="/AV" class="waves-effect waves-light">
+                
+                  <i class="fa fa-music"></i>
+                
+                <span>视听</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+              </a>
 
-            
+            <ul class="sub-nav menus_item_child ">
+              
+                <li> 
+                  <a href="/AV/music" >
+                    
+                      <i class="fa fa-music" style="margin-top: -20px;"></i>
+                    
+                    <span>音乐</span>
+                  </a>
+                </li>
+              
+                <li> 
+                  <a href="/AV/movies" >
+                    
+                      <i class="fa fa-film" style="margin-top: -20px;"></i>
+                    
+                    <span>视频</span>
+                  </a>
+                </li>
+               
+            </ul>
+          
       </li>
     
       <li class="hide-on-med-and-down nav-item" >
@@ -421,7 +443,7 @@
 
    
    
-<!-- 支持二级菜单特性 洪卫 shw2018 modify 2019.09.17  -->
+<!-- 支持二级菜单特性-->
 <!-- <ul class="menu-list mobile-menu-list">
     
         <li class="m-nav-item">
@@ -470,12 +492,34 @@
         
         <li class="m-nav-item">
                 
-                    <a href="/AV" class="waves-effect waves-light">
-                        
-                        <i class="fa fa-fw fa-music"></i>
-                        
-                        视听
+                    <a href="javascript:;">
+                            
+                            <i class="fa fa-fw fa-music"></i>
+                            
+                            视听
+                            <span class="m-icon"><i class="fa fa-chevron-right"></i></span>
                     </a>
+                <ul>
+                  
+                    <li> 
+                      <a href="/AV/music" >
+                           
+                            <i class="fa fa-music" style="left: 18px; position: absolute;"></i>
+                       
+                       <span>音乐</span>
+                      </a>
+                    </li>
+                  
+                    <li> 
+                      <a href="/AV/movies" >
+                           
+                            <i class="fa fa-film" style="left: 18px; position: absolute;"></i>
+                       
+                       <span>视频</span>
+                      </a>
+                    </li>
+                   
+                </ul>
               
             </li>
         
@@ -1119,10 +1163,10 @@ $(function () {
         
   <!-- weather -->
 <script type="text/javascript">
-  WIDGET = {FID: 'gVaLD8aoa1'}
+  WIDGET = {FID: 'RLcmlHH8In'}
 </script>
 <script type="text/javascript">var windowWidth = $(window).width(); if (windowWidth > 768) { document.write('<script type="text/javascript" src="https://apip.weatherdt.com/float/static/js/r.js?v=1111"><\/script>'); } </script>
 
 		
-    <script>!function(e){var r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function t(){for(var c=0;c<r.length;c++)t=r[c],void 0,0<=(n=t.getBoundingClientRect()).top&&0<=n.left&&n.top<=(e.innerHeight||document.documentElement.clientHeight)&&function(){var t,n,e,i,o=r[c];t=o,n=function(){r=r.filter(function(t){return o!==t})},e=new Image,i=t.getAttribute("data-original"),e.onload=function(){t.src=i,n&&n()},e.src=i}();var t,n}t(),e.addEventListener("scroll",function(){!function(t,n){clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(n)},500)}(t,e)})}(this);</script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"position":"left","width":175,"height":360},"mobile":{"show":false},"react":{"opacity":0.7}});</script></body>
+    <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"log":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"position":"left","width":175,"height":360},"mobile":{"show":false},"react":{"opacity":0.7}});</script><script>!function(e){var r=Array.prototype.slice.call(document.querySelectorAll("img[data-original]"));function t(){for(var c=0;c<r.length;c++)t=r[c],void 0,0<=(n=t.getBoundingClientRect()).top&&0<=n.left&&n.top<=(e.innerHeight||document.documentElement.clientHeight)&&function(){var t,n,e,i,o=r[c];t=o,n=function(){r=r.filter(function(t){return o!==t})},e=new Image,i=t.getAttribute("data-original"),e.onload=function(){t.src=i,n&&n()},e.src=i}();var t,n}t(),e.addEventListener("scroll",function(){!function(t,n){clearTimeout(t.tId),t.tId=setTimeout(function(){t.call(n)},500)}(t,e)})}(this);</script></body>
 </html>
