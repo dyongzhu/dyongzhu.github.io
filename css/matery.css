@@ -925,8 +925,8 @@ article .article-tags .chip {
 
 #artDetail .card {
     box-shadow: 0 10px 35px 2px rgba(0, 0, 0, .15),
-        0 5px 15px rgba(0, 0, 0, .07),
-        0 2px 5px -5px rgba(0, 0, 0, .1) !important;
+    0 5px 15px rgba(0, 0, 0, .07),
+    0 2px 5px -5px rgba(0, 0, 0, .1) !important;
 }
 
 #artDetail .tag-cate {
@@ -1545,8 +1545,7 @@ thead {
     padding: 0;
     color: #fff;
     border: 1px solid #0f9d58;
-    background: radial-gradient(#4cbf30, #0f9d58);
-    ;
+    background: radial-gradient(#4cbf30, #0f9d58);;
     font-size: 0.9rem;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
@@ -1722,8 +1721,7 @@ thead {
 
 .other-skills .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
-    ;
+    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);;
     border: 1px solid #4cbf30;
     box-shadow: 0 5px 5px rgba(0, 0, 0, .25)
 }
@@ -1949,7 +1947,8 @@ footer .copy-right {
 }
 
 /* 二级菜单样式定义 洪卫 shw2018 add 2019.09.17 */
-.nav-menu {}
+.nav-menu {
+}
 
 .nav-menu li .sub-nav {
     position: absolute;
@@ -2049,13 +2048,13 @@ footer .copy-right {
     transition: all .3s;
 }
 
-.m-nav-show .m-nav-item>a:hover {
+.m-nav-show .m-nav-item > a:hover {
     color: #FFF;
     background: rgba(255, 255, 255, .8);
 }
 
-.m-nav-show>a:before,
-.m-nav-item>a:hover:before {
+.m-nav-show > a:before,
+.m-nav-item > a:hover:before {
     opacity: 1;
 }
 
