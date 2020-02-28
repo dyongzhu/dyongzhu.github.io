@@ -5,8 +5,8 @@
     
     <entry>
       <title>test</title>
-      <link href="/posts/test.html"/>
-      <url>/posts/test.html</url>
+      <link href="/posts/d87f7e0c.html"/>
+      <url>/posts/d87f7e0c.html</url>
       
         <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><blockquote><p><code>关于我</code>界面有我个人部分介绍，目前博客正在搭建完善中，此篇文章只是个人测试，测试：标签、coverImg、markedown语法、emoji表情支持、数学公式、天气插件、网站访问流量、banner、看板娘、分类、二级菜单、鼠标特效、文字特效、樱花特效。。。更新中。。。<br>\[y = f(x)\]</p></blockquote><h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><p>\[y = {f_{ {g_1} } }(x)\]</p><h1 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h1><p><span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span> <span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span></p><h1 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h1><h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><blockquote><p>test</p></blockquote><blockquote><p>$y = f(x)$<br>$ code jjjjj</p></blockquote><ul><li>1</li><li>2</li><li>4</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
