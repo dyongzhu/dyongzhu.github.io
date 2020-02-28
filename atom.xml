@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>余生逐浪</title>
+  <title>永柱☺博客</title>
   
-  <subtitle>余生逐浪</subtitle>
+  <subtitle>永柱☺博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://miguosensen.cn/"/>
-  <updated>2020-02-28T04:49:00.031Z</updated>
-  <id>https://miguosensen.cn/</id>
+  <link href="https://dyongzhu.com/"/>
+  <updated>2020-02-28T18:27:20.654Z</updated>
+  <id>https://dyongzhu.com/</id>
   
   <author>
-    <name>wavelives</name>
+    <name>永柱</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>test</title>
-    <link href="https://miguosensen.cn/posts/d87f7e0c.html"/>
-    <id>https://miguosensen.cn/posts/d87f7e0c.html</id>
+    <link href="https://dyongzhu.com/posts/d87f7e0c.html"/>
+    <id>https://dyongzhu.com/posts/d87f7e0c.html</id>
     <published>2020-02-23T15:36:03.000Z</published>
-    <updated>2020-02-28T04:49:00.031Z</updated>
+    <updated>2020-02-28T18:27:20.654Z</updated>
     
     <summary type="html">
     
@@ -35,14 +35,14 @@
     
     </summary>
     
-      <category term="软件安装与配置" scheme="https://miguosensen.cn/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+      <category term="软件安装与配置" scheme="https://dyongzhu.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-      <category term="Hexo" scheme="https://miguosensen.cn/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://dyongzhu.com/tags/Hexo/"/>
     
-      <category term="Github" scheme="https://miguosensen.cn/tags/Github/"/>
+      <category term="Github" scheme="https://dyongzhu.com/tags/Github/"/>
     
-      <category term="博客1" scheme="https://miguosensen.cn/tags/%E5%8D%9A%E5%AE%A21/"/>
+      <category term="博客1" scheme="https://dyongzhu.com/tags/%E5%8D%9A%E5%AE%A21/"/>
     
   </entry>
   
