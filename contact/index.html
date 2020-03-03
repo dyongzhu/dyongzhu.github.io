@@ -753,7 +753,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     /* valine 评论框增加背景图片 */
     #vcomments textarea {
         box-sizing: border-box;
-        background: url("") 100% 100% no-repeat;
+        background: url("/medias/comment_bg.png") 100% 100% no-repeat;
     }
 
     #vcomments input[type=text],
@@ -1010,7 +1010,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         avatar: 'mm',
         pageSize: '10',
         lang: 'zh-cn',
-        placeholder: 'just go go',
+        placeholder: '在此处匿名留言。。。',
 
     });
 
@@ -1257,8 +1257,6 @@ $(function () {
 
         <!-- 鼠标点击文字特效 -->
         
-            <script src="/js/wenzi.js" type="text/javascript"></script>
-        
 
         <!-- 背景雪花飘落特效 -->
         
@@ -1299,13 +1297,6 @@ $(function () {
         
 
         <!-- 背景 canvas-nest -->
-        
-            <script type="text/javascript">
-            var windowWidth = $(window).width();
-            if (windowWidth > 992) {
-                document.write('<script type="text/javascript" color="0,0,255" pointColor="0,0,255" opacity= "0.8" zIndex="--1" count="150"src="/libs/background/canvas-nest.js"><\/script>');
-            }
-            </script>
         
 
         <!-- 背景静止彩带 -->
