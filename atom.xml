@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dyongzhu.com/"/>
-  <updated>2020-03-02T22:18:32.980Z</updated>
+  <updated>2020-03-04T08:03:32.513Z</updated>
   <id>https://dyongzhu.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
+    <title>博客介绍</title>
     <link href="https://dyongzhu.com/posts/d87f7e0c.html"/>
     <id>https://dyongzhu.com/posts/d87f7e0c.html</id>
-    <published>2020-02-23T15:36:03.000Z</published>
-    <updated>2020-03-02T22:18:32.980Z</updated>
+    <published>2020-03-04T08:00:03.000Z</published>
+    <updated>2020-03-04T08:03:32.513Z</updated>
     
     <summary type="html">
     
@@ -35,14 +35,10 @@
     
     </summary>
     
-      <category term="软件安装与配置" scheme="https://dyongzhu.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+      <category term="随笔" scheme="https://dyongzhu.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="Hexo" scheme="https://dyongzhu.com/tags/Hexo/"/>
-    
-      <category term="Github" scheme="https://dyongzhu.com/tags/Github/"/>
-    
-      <category term="博客1" scheme="https://dyongzhu.com/tags/%E5%8D%9A%E5%AE%A21/"/>
+      <category term="博客" scheme="https://dyongzhu.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
